@@ -1,0 +1,24 @@
+{
+    "name": "wangtiejun/uploadfile",
+    "description": "文件上传",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangtjtiejun",
+            "email": "13241701929@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Wangtiejun\\": "src/"
+        }
+    }
+}
