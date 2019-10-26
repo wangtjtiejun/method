@@ -1,6 +1,6 @@
 {
-    "name": "wangtiejun/uploadfile",
-    "description": "文件上传",
+    "name": "wangtiejun/method",
+    "description": "常用方法及算法",
     "type": "library",
     "require": {
         "php": "^7.3"
